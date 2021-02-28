@@ -100,16 +100,6 @@
          "opacity":0.15,
          "properties":[
                 {
-                 "name":"jitsiConfig",
-                 "type":"string",
-                 "value":"{ \"startWithAudioMuted\": true }"
-                }, 
-                {
-                 "name":"jitsiInterfaceConfig",
-                 "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#77ee77\" }"
-                }, 
-                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Meeting_2"
