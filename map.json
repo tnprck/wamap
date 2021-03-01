@@ -159,7 +159,7 @@
                  "value":"_B\u00fcro_1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
@@ -177,7 +177,7 @@
                  "value":"_B\u00fcro_2"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
@@ -195,7 +195,7 @@
                  "value":"_B\u00fcro_3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
@@ -213,7 +213,7 @@
                  "value":"_B\u00fcro_4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
@@ -231,7 +231,7 @@
                  "value":"_B\u00fcro_5"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
@@ -249,7 +249,7 @@
                  "value":"_B\u00fcro_6"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":35,
          "x":0,
          "y":0
